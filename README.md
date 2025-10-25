@@ -61,3 +61,6 @@ We will consider the complexity of the specification during the grading.
 cd ./scripts
 ./commit-msg-hook-test
 ```
+
+## Submission notes
+Hook installed locally; copies in scripts/.
